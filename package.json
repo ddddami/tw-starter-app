@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ddddami/tw-starter-app/issues"
   },
-  "homepage": "https://github.com/ddddami/tw-starter-app#readme"
+  "homepage": "https://github.com/ddddami/tw-starter-app#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
 }
